@@ -37,7 +37,7 @@ footer a { color:var(--accent); }
 <body>
 <header>
   <h1>数据分析作品集 <span>·</span> 统计学 × 工程</h1>
-  <p>五个开源项目，全部使用真实/可复现数据，每一条结论可溯源、每一个项目在线可访问。主线：用统计方法解决真实业务与决策问题。</p>
+  <p>六个开源项目，全部使用真实/可复现数据，每一条结论可溯源、每一个项目在线可访问。主线：用统计方法解决真实业务与决策问题。</p>
   <div class="tags">
     <span class="tag">Python · pandas · scikit-learn</span>
     <span class="tag">假设检验 · 广义线性模型 · 无监督学习</span>
@@ -67,6 +67,13 @@ footer a { color:var(--accent); }
       <p>十万次级可复现模拟，把实验方法学的每个"常识"钉在数字上：偷看使假阳性膨胀 5.6 倍、CUPED 方差缩减 36%、辛普森悖论完整反转复现。</p>
       <div class="nums">AA 假阳性 <b>4.98%</b>（理论5%）· 功效 <b>80.1%</b> · 偷看 <b>4.99%→28.1%</b> · Bonferroni <b>22.6%→4.9%</b></div>
       <div class="links"><a href="/ab-lab/">在线报告 →</a><a href="https://github.com/mayflower0829-afk/ab-testing-lab" target="_blank" rel="noopener">GitHub →</a></div>
+    </div>
+
+    <div class="proj">
+      <div class="top"><h2>客户流失生存分析</h2><span class="badge" style="background:#B4540A">生存模型</span></div>
+      <p>Kaplan-Meier 估计、log-rank 检验与离散时间风险模型全部手动实现（无生存分析库依赖）：处理右删失、量化高低价值客户生存差异、输出可解读的流失风险因子。</p>
+      <div class="nums">3月生存 <b>58.5%</b> · log-rank <b>p&lt;1e-14</b> · 样本外 AUC <b>0.903</b> · 2.4 万 Person-Months</div>
+      <div class="links"><a href="/churn/">在线报告 →</a><a href="https://github.com/mayflower0829-afk/churn-survival" target="_blank" rel="noopener">GitHub →</a></div>
     </div>
 
     <div class="proj">
