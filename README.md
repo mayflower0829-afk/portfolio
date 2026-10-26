@@ -1,6 +1,6 @@
 # 数据分析作品集 · Portfolio
 
-统计学本科生的数据分析作品集主页，聚合 6 个开源项目的入口与核心指标。
+统计学本科生的数据分析作品集主页，聚合 9 个开源项目的入口与核心指标（8 个数据分析/工具项目 + 微信小程序）。
 
 **在线访问**：<https://cloud1-d4gsgj705497df85d-1501559031.tcloudbaseapp.com/>
 
@@ -16,6 +16,7 @@
 | [fresh-econ](https://github.com/mayflower0829-afk/fresh-econ) | 经营工具 | 单位经济计算 · 保本点与敏感性分析 |
 | [math3-radar](https://github.com/mayflower0829-afk/math3-radar) | 数据产品 | 14卷真题 · 18章考频 |
 | [mas-school-guide](https://github.com/mayflower0829-afk/mas-school-guide) | 数据产品 | 34校 · 18所官网核实 |
+| [retail-shop-miniprogram](https://github.com/mayflower0829-afk/retail-shop-miniprogram) | 全栈工程 | 微信小程序 · 商品/购物车/订单/店铺管理 |
 
 ## License
 
