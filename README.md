@@ -12,6 +12,8 @@
 | [ecommerce-behavior](https://github.com/mayflower0829-afk/ecommerce-behavior) | 业务分析 | RFM+KMeans+Cohort+购物篮 · 26%客户贡献66.5% GMV |
 | [ab-testing-lab](https://github.com/mayflower0829-afk/ab-testing-lab) | 实验方法学 | 偷看膨胀5.6倍 · CUPED降36%方差 |
 | [churn-survival](https://github.com/mayflower0829-afk/churn-survival) | 生存分析 | 手动KM/log-rank · AUC 0.903 |
+| [vocab-radar](https://github.com/mayflower0829-afk/vocab-radar) | 学习工具 | 艾宾浩斯调度 · ECDICT考研子集4,801词 |
+| [fresh-econ](https://github.com/mayflower0829-afk/fresh-econ) | 经营工具 | 单位经济计算 · 保本点与敏感性分析 |
 | [math3-radar](https://github.com/mayflower0829-afk/math3-radar) | 数据产品 | 14卷真题 · 18章考频 |
 | [mas-school-guide](https://github.com/mayflower0829-afk/mas-school-guide) | 数据产品 | 34校 · 18所官网核实 |
 
